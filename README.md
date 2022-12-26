@@ -6,4 +6,4 @@ Meu Primeiro projeto em Flutter/Dart.
 
 Este é um app mobile simples, feito por um iniciante em Flutter.
 
-O app coleta o texto digita no campo de entrada de texto, e vai a lsitar todos dali em diante. 
+O app coleta o texto digitado no campo de entrada de texto, e vai a lsitar todos dali em diante. 
